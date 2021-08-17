@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\vteje001c\Desktop\Projects\Script Logics\ScriptLogics
+-IC:\Program Files (x86)\HP\Virtual User Generator\include
+-ec:\users\vteje001c\desktop\projects\script logics\scriptlogics\\logfile.log
+c:\users\vteje001c\desktop\projects\script logics\scriptlogics\\combined_ScriptLogics.c
+c:\users\vteje001c\desktop\projects\script logics\scriptlogics\\pre_cci.c

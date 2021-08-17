@@ -1,0 +1,21 @@
+Virtual User Script started at : 4/24/2017 11:13:40 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.0.0 for Windows 7; build 2739 (Nov 30 2014 23:13:05)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Run-Time Settings file: "C:\Users\vteje001c\Desktop\Projects\Script Logics\ScriptLogics\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(5): web_js_run started  	[MsgId: MMSG-26355]
+Action.c(5): Error -26000: Error from JS Engine: "C:\Users\vteje001c\Desktop\Projects\Script Logics\ScriptLogics\Conversion.js:23:ReferenceError: navigator is not defined
+"  	[MsgId: MERR-26000]
+Action.c(5): Error -35051: Failed to run the JavaScript code  	[MsgId: MERR-35051]
+Action.c(5): web_js_run highest severity level was "ERROR"  	[MsgId: MMSG-26391]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
