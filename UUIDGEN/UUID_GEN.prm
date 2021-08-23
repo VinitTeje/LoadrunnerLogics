@@ -1,0 +1,16 @@
+[parameter:UUID4]
+Format="%04lx"
+GenerateNewVal="EachOccurrence"
+MaxValue="65535"
+MinValue="1"
+OriginalValue=""
+ParamName="UUID4"
+Type="Random"
+[parameter:UUID8]
+Format="%08lx"
+GenerateNewVal="EachOccurrence"
+MaxValue="4294967295"
+MinValue="1"
+OriginalValue=""
+ParamName="UUID8"
+Type="Random"
